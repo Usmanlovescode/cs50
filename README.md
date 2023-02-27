@@ -77,14 +77,6 @@ https://scratch.mit.edu/projects/433583706/
 
   All the code is under MIT license, avaiable [here](https://github.com/tiagobpires/readme-creator). Feel free to contribute :D!
 
-## Contact
-
-<img align="left" src="https://avatars.githubusercontent.com/tiagobpires?size=100">
-
-Made with ❤️ by [Tiago Barros](https://github.com/tiagobpires).
-Feel free to contact me to discuss any of the solutions, or even just talk! 😊
-
-<p ><a href="https://www.linkedin.com/in/rafaelbpires" target="_blank"><img align="center" src="https://img.shields.io/badge/get%20in%20touch!-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a></p>
 </br>
 
 ## CS50 Certificate
